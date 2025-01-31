@@ -1,0 +1,30 @@
+package stepDefinations;
+
+import io.cucumber.java.en.*;
+
+public class Step {
+
+	@Given("user launch chrome browser")
+	public void user_launch_chrome_browser() {
+	    
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("user enter username as {string} and password as {string}")
+	public void user_enter_username_as_and_password_as(String string, String string2) {
+	    
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("click on submit button")
+	public void click_on_submit_button() {
+	    
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("user should be login")
+	public void user_should_be_login() {
+	    
+	    throw new io.cucumber.java.PendingException();
+	}
+}

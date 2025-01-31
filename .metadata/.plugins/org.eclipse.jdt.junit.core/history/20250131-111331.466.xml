@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="cucumberAutomation" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="testRunner.TestRunner" time="0.073">
+    <testsuite name="Sample" time="0.073">
+      <testcase name="launch the browser #1" classname="Sample" time="0.066"/>
+      <testcase name="launch the browser #2" classname="Sample" time="0.002"/>
+      <testcase name="launch the browser #3" classname="Sample" time="0.002"/>
+      <testcase name="launch the browser #4" classname="Sample" time="0.002"/>
+      <testcase name="launch the browser #5" classname="Sample" time="0.001"/>
+    </testsuite>
+  </testsuite>
+</testrun>

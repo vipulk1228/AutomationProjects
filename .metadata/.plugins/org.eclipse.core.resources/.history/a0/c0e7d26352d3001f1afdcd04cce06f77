@@ -1,0 +1,27 @@
+package javaDemo;
+
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Scanner;
+import java.util.Collections;
+public class First {
+
+	public static void main(String[] args) {
+	
+	String s="vipul khutale";
+	String[] s1=s.split(" ");
+	String rev="";
+	String fw="";
+	String sw="";
+	
+	for(int i=s1.length-1; i>=0; i--)
+	{
+		fw=s1[0];
+		sw=s1[1];
+		
+	}
+	
+	System.out.println(fw);
+	
+	}
+}

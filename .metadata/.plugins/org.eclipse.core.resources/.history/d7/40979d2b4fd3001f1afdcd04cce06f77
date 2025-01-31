@@ -1,0 +1,14 @@
+package javaDemo;
+
+import java.util.Scanner;
+
+public class First {
+
+	public static void main(String[] args) {
+	
+	String s="a^hv%&&%(BHHVHJhcdc";
+	s=s.replaceAll("[^azAZ09]", " ");
+	System.out.println(s);
+	
+	}
+}
